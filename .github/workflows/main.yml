@@ -11,6 +11,6 @@ jobs:
 
     steps:
       - name: print a welcome message 
-        run: echi "Welcome to our first Github action workflow"
+        run: echo "Welcome to our first Github action workflow"
 
 
